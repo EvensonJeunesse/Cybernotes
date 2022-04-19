@@ -1,2 +1,2 @@
 # Cybernotes
-Useful note from a cybersecurity engineer
+Useful notes from a cybersecurity engineer
